@@ -4,4 +4,15 @@
 Hola soy un principiante en la materia que busca adquirir experiencia y conocimiento para crear mis propias paginas y brindar una experiencia increible.
 
 ## Contactame
-Me encuentro en busqueda de personas con las cuales compartir diferentes opiniones sobre codigo y buenas practicas asi como ideas aleatorias sobre proyectos que me podrian interesar.
+Me encuentro en busqueda de personas con las cuales compartir diferentes opiniones sobre *codigo* y __buenas practicas__ asi como ~~ideas aleatorias~~ sobre proyectos que me podrian interesar.
+
+### Cosas por hacer
+
+1. Comer 
+2. Jugar
+3. Dormir
+
+- Salir a trabajar
+- Trabajar
+* Volver del trabajo 
+* Regresar denuevo
