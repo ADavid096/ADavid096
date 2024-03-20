@@ -16,3 +16,6 @@ Me encuentro en busqueda de personas con las cuales compartir diferentes opinion
 - Trabajar
 * Volver del trabajo 
 * Regresar denuevo
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
