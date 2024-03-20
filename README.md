@@ -16,3 +16,7 @@ Me encuentro en busqueda de personas con las cuales compartir diferentes opinion
 - Trabajar
 * Volver del trabajo 
 * Regresar denuevo
+
+## Technologies
+- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
+- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
