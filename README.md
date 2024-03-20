@@ -16,3 +16,7 @@ Me encuentro en busqueda de personas con las cuales compartir diferentes opinion
 - Trabajar
 * Volver del trabajo 
 * Regresar denuevo
+
+## Hobbies
+- Dancing: ...
+- Sleeping: ---
